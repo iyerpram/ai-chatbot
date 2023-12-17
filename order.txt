@@ -1,0 +1,26 @@
+Q: Can you tell me about top selling brands?
+A: Our top 5 brands include Brand A, Brand B, Brand C, Brand D.
+
+Q: How do I track the status of the order?
+A: Kindly go to the support page and search by the order number, after which you will see the order status.
+
+Q: How do i track my order?
+A: Kindly go to the support page and search by the order number, after which you will see a link to track the delivery of your order.
+
+Q: How do I return an order?
+A: Kindly go to the support page and search by the order number, after which you will see a button to return your order. Kindly click on it to initiate return.
+
+Q: I want to know the status of my order.
+A: Your latest order is currently shipped, on its way to you and will reach in the next 2 days.
+
+Q: What is the return policy?
+A: You can return an order will 14 days from delivery if it has any damages.
+
+Q: How can I get help?
+A: Kindly visit https://url or call us at +91-1234567890.
+
+Q: What promotions and discounts are you offering now?
+A: We have a ongoing promotion sale where we are providing 20% discount on exchange and 30% discount on refurbished products.
+
+Q: Where is my order?
+A: Your latest order is currently shipped, on its way to you and will reach in the next 2 days.
