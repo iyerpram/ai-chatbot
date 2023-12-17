@@ -18,11 +18,6 @@ const chain = new RetrievalQAChain({
 });
 
 const res = await chain.call({
-  query: "How do i track the status of my order?",
-});
-
-const res1 = await chain.call({
-  query: "When will it reach me?",
+  query: "Where is my order now?",
 });
 console.log(res.text);
-console.log(res1.text);
